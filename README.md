@@ -2,8 +2,6 @@
 
 Készítette: Hugyecz Petra
 
----------------------
-
 ###Követelményanalízis
 ####Célkitűzés
 A célom egy olyan oldal létrehozása, ami az egyes virágok gondozását, igényeit írja le. Vendégként csak nézni tudom az egyes leírásokat. Lehetőség lesz regisztrálni az oldalra. Bejelentkezés után tudok majd saját leírásokat is csinálni, és tudom értékelni az egyes virágokat.
@@ -44,6 +42,7 @@ A célom egy olyan oldal létrehozása, ami az egyes virágok gondozását, igé
 
 
 ####Oldalvázlatok
+
 **Főoldal**
 ![](kepek/vazlatok/Fooldal.jpg)
 
